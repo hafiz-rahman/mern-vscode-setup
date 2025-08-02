@@ -1,0 +1,27 @@
+{
+  "recommendations": [
+    "formulahendry.auto-close-tag",
+    "formulahendry.auto-rename-tag",
+    "formulahendry.code-runner",
+    "mikestead.dotenv",
+    "dbaeumer.vscode-eslint",
+    "github.copilot",
+    "github.copilot-chat",
+    "codezombiech.gitignore",
+    "eamodio.gitlens",
+    "oderwat.indent-rainbow",
+    "xabikos.javascriptsnippets",
+    "ritwickdey.LiveServer",
+    "shd101wyy.markdown-preview-enhanced",
+    "cardinal90.multi-cursor-case-preserve",
+    "christian-kohler.npm-intellisense",
+    "postman.postman",
+    "esbenp.prettier-vscode",
+    "yuichinukiyama.preview-on-web-server",
+    "burkeholland.simple-react-snippets",
+    "bradlc.vscode-tailwindcss",
+    "tomoki207.vscode-pdf",
+    "gamunu.vscode-yarn",
+    "mongodb.mongodb-vscode"
+  ]
+}
