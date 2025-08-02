@@ -22,6 +22,9 @@
     "bradlc.vscode-tailwindcss",
     "tomoki207.vscode-pdf",
     "gamunu.vscode-yarn",
-    "mongodb.mongodb-vscode"
+    "mongodb.mongodb-vscode",
+    "davidmoris.dark-magic-theme",
+    "miguel-solorio.fluent-icons",
+    "miguel-solorio.symbols"
   ]
 }

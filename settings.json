@@ -94,6 +94,11 @@
   "workbench.productIconTheme": "fluent-icons",
   "workbench.colorTheme": "Dark Magic Frankenstein",
 
+  // Note: Theme customization details are located in this section.
+  // The visual setup is tailored for the "Dark Magic Theme" by David Moris — a beautiful theme that I've tweaked for my comfort.
+  // Feel free to use it as-is or customize it to suit your preferences.
+  // All color and icon adjustments are optimized for this theme, but the same approach can be adapted to other free dark themes.
+
   "workbench.colorCustomizations": {
     "editorGroupHeader.tabsBackground": "#171e1f",
     "editorGroupHeader.border": "#024032",
